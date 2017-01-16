@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMLDocument>
+	<Description>Order</Description>
+	<Version>1.00</Version>
+	<CreationDate>2016-09-16T00:00:00</CreationDate>
+	<OrderHeader>
+		<ID>TORD-jG7500</ID>
+		<Number>jG7500</Number>
+		<RecipientCode>UX</RecipientCode>
+		<CreationDate>2016-09-16T00:00:00</CreationDate>
+		<DeliveryDate>2016-09-16T00:00:00</DeliveryDate>
+		<SupplierNumber>1</SupplierNumber>
+		<RecipientStoreCode>23</RecipientStoreCode>
+		<GoodsType>M</GoodsType>
+		<DocumentType>IZPR</DocumentType>
+		<WebOrderNumber>300000000153</WebOrderNumber>
+		<OrderDetail>
+			<Code>595783</Code>
+			<Quantity>3</Quantity>
+			<Price>0</Price>
+			<PositionSum>1000</PositionSum>
+			<Moreprices>N</Moreprices>
+		</OrderDetail> 
+	</OrderHeader> 
+</XMLDocument>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMLDocument>
+	<Description>Order</Description>
+	<Version>1.00</Version>
+	<CreationDate>2016-09-16T00:00:00</CreationDate>
+	<OrderHeader>
+		<ID>TORD-jG7500</ID>
+		<OrderDetail>
+			<Code>595783</Code>
+		</OrderDetail> 
+	</OrderHeader>
+</XMLDocument>
